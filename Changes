@@ -1,0 +1,28 @@
+Revision history for CWB-CQP-More
+
+0.06    2014-09-13
+        - added minimal 'Parallel' corpora support.
+
+0.05    2011-01-25
+        - added 'peek', 'forward' and 'backward' methods in iterator
+          module.
+
+0.04    2011-01-24
+        - added iterator module
+
+0.03    2010-12-20
+        - use POSIX::Open3 instead of IPC::Open3
+        - added unicode support
+
+0.02    2010-11-25
+        - Added size method;
+        - Added cat method;
+
+0.01    2010-11-09
+        - Added exec method with exceptions support (try/catch or eval);
+        - Added show_corpora method;
+        - Added corpora_details method;
+        - Added set method;
+        - Added change_corpus method;
+
+
